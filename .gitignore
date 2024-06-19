@@ -1,0 +1,8 @@
+decision-making-CarND/CarND-test/build*
+*.h5
+*.pkl
+decision-making-CarND/CarND-test/src/train/log/*
+*.zip
+*.png
+episode*.txt
+*.pyc
